@@ -70,6 +70,8 @@ Run ```$ tensorboard --logdir=log``` then navigate to ```http://localhost:6006/`
 * [PPO](https://arxiv.org/abs/1707.06347), VPG with ratio objective and with log likelihood objective
 * [Vicuna-7B](https://lmsys.org/projects/), An Open-Source Chatbot Impressing GPT-4 with 90%* ChatGPT Quality
 
+The model we used is "[vicuna-7b-v1.1](https://huggingface.co/lmsys/vicuna-7b-v1.1)"
+
 ## Demonstrations:
 #### Our approach:
 <img src="img/ours.gif" width="300"/>
